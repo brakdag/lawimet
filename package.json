@@ -1,0 +1,24 @@
+{
+  "name": "lawimet",
+  "version": "1.0.0",
+  "description": "web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakdag/lawimet.git"
+  },
+  "keywords": [
+    "web",
+    "page",
+    "lawimet"
+  ],
+  "author": "Gustavo Ferreyra <brakdag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakdag/lawimet/issues"
+  },
+  "homepage": "https://github.com/brakdag/lawimet#readme"
+}
