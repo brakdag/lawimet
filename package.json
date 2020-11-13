@@ -4,7 +4,8 @@
   "description": "web page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/brakdag/lawimet/issues"
   },
-  "homepage": "https://github.com/brakdag/lawimet#readme"
+  "homepage": "https://github.com/brakdag/lawimet#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
 }
